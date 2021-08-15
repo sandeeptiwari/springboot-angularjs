@@ -1,0 +1,72 @@
+[
+  {
+    "activityId": 1,
+    "name": "Museum Field Trip",
+    "date": "2015-10-01T16:00:00.000Z",
+    "classroomId": 1,
+    "schoolId": 1
+  },
+  {
+    "activityId": 2,
+    "name": "Book Fair",
+    "date": "2015-10-06T16:00:00.000Z",
+    "classroomId": 2,
+    "schoolId": 1
+  },
+  {
+    "activityId": 3,
+    "name": "Petting Zoo Visit",
+    "date": "2015-10-19T16:00:00.000Z",
+    "classroomId": 3,
+    "schoolId": 2
+  },
+  {
+    "activityId": 4,
+    "name": "Pottery Class",
+    "date": "2015-11-04T16:00:00.000Z",
+    "classroomId": 4,
+    "schoolId": 2
+  },
+  {
+    "activityId": 5,
+    "name": "Finger Painting Fun",
+    "date": "2015-11-16T16:00:00.000Z",
+    "classroomId": 5,
+    "schoolId": 2
+  },
+  {
+    "activityId": 6,
+    "name": "Visiting Author",
+    "date": "2015-11-18T16:00:00.000Z",
+    "classroomId": 6,
+    "schoolId": 4
+  },
+  {
+    "activityId": 7,
+    "name": "Picnic Lunch",
+    "date": "2015-11-23T16:00:00.000Z",
+    "classroomId": 7,
+    "schoolId": 4
+  },
+  {
+    "activityId": 8,
+    "name": "Lunch with Grandparents",
+    "date": "2015-12-01T16:00:00.000Z",
+    "classroomId": 8,
+    "schoolId": 4
+  },
+  {
+    "activityId": 9,
+    "name": "Visit City Theater",
+    "date": "2015-12-09T16:00:00.000Z",
+    "classroomId": 1,
+    "schoolId": 1
+  },
+  {
+    "activityId": 10,
+    "name": "Create an Art Exhibit",
+    "date": "2015-12-11T16:00:00.000Z",
+    "classroomId": 1,
+    "schoolId": 1
+  }
+]
